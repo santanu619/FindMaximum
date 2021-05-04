@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\bin\Debug\netcoreapp3.1\FindMaximumGenerics.exe
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\bin\Debug\netcoreapp3.1\FindMaximumGenerics.deps.json
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\bin\Debug\netcoreapp3.1\FindMaximumGenerics.runtimeconfig.json
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\bin\Debug\netcoreapp3.1\FindMaximumGenerics.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\bin\Debug\netcoreapp3.1\FindMaximumGenerics.dll
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\bin\Debug\netcoreapp3.1\FindMaximumGenerics.pdb
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.dll
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.pdb
+C:\Users\SANTANU\source\repos\FindMaximumGenerics\FindMaximumGenerics\obj\Debug\netcoreapp3.1\FindMaximumGenerics.genruntimeconfig.cache
