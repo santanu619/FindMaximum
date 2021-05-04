@@ -13,8 +13,13 @@ namespace FindMaximumGenerics
             int FirstValue = 12;
             int SecondValue = 16;
             int ThirdValue = 14;
+            float FirstFloatValue = 9.6f;
+            float SecondFloatValue = 4.8f;
+            float ThirdFloatValue = 2.3f;
             int maximum = FindMaxumum(FirstValue, SecondValue, ThirdValue);
+            float maximum1 = FindMaxumum1(FirstFloatValue, SecondFloatValue, ThirdFloatValue);
             Console.WriteLine(maximum);
+            Console.WriteLine(maximum1);
             Console.ReadKey();
 
         }
@@ -29,6 +34,16 @@ namespace FindMaximumGenerics
             else throw new Exception("Values are same");
         }
 
+        static float FindMaxumum1(float FirstFloatValue, float SecondFloatValue, float ThirdFloatValue)
+        {
+            if (FirstFloatValue.CompareTo(SecondFloatValue) > 0 && FirstFloatValue.CompareTo(ThirdFloatValue) > 0)
+                return FirstFloatValue;
+            else if (SecondFloatValue.CompareTo(FirstFloatValue) > 0 && SecondFloatValue.CompareTo(ThirdFloatValue) > 0)
+                return SecondFloatValue;
+            else if (ThirdFloatValue.CompareTo(FirstFloatValue) > 0 && ThirdFloatValue.CompareTo(SecondFloatValue) > 0)
+                return ThirdFloatValue;
+            else throw new Exception("Values are same");
+        }
 
     }
 }
